@@ -38,9 +38,9 @@ Se analiza la **confianza política** como variable dependiente, explorando cóm
 
 ---
 
-## 📂 **Archivos en esta carpeta**  
-- 📄 **Guía1.pdf** → Enunciado completo del ejercicio.  
-- 📜 **Código en R** con la estimación de modelos multinivel.  
-- 📊 **Tablas y gráficos** con resultados.  
+## 📂 **Archivos en esta carpeta**
+- 📄 [**EJERCICIO_1_JARA_RAMÓN.qmd**](EJERCICIO_1_JARA_RAMÓN.qmd) → Código fuente en Quarto con el análisis en R.  
+- 📜 [**EJERCICIO_1_JARA_RAMÓN.pdf**](EJERCICIO_1_JARA_RAMÓN.pdf) → Documento renderizado con los análisis y resultados en formato PDF.  
+
 
 📌 *Este ejercicio permitió aplicar modelos multinivel para analizar la influencia de factores individuales y contextuales en la confianza política en América Latina.*  
