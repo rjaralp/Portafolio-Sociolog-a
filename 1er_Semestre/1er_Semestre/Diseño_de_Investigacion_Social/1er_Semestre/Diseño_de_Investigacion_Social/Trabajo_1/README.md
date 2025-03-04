@@ -29,7 +29,9 @@
 - Evaluación del impacto del nivel socioeconómico y asistencia religiosa en años de educación.  
 
 ## 📂 **Archivos en esta carpeta**
-- 📄 **`script.do`** → Código en STATA con todos los análisis.  
-- 📜 **`respuestas.docx`** → Documento con respuestas y justificación estadística.  
+## 📂 **Archivos en esta carpeta**
+- 📄 [**ENTREGA 1 CARREÑO_JARA.docx**](ENTREGA%201%20CARREÑO_JARA.docx) → Documento con respuestas y justificación estadística.  
+- 📜 [**DOFILE_ENTREGA1_CARREÑO_JARA.do**](DOFILE_ENTREGA1_CARREÑO_JARA.do) → Código en STATA con todos los análisis.  
+
 
 📌 *Este trabajo explora la relación entre características sociodemográficas y educación a través de estadística inferencial en STATA.*  
