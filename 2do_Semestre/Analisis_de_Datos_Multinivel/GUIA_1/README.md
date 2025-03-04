@@ -39,7 +39,7 @@ Se analiza la **confianza política** como variable dependiente, explorando cóm
 ---
 
 ## 📂 **Archivos en esta carpeta**
-- 📄 [**EJERCICIO_1_JARA_RAMON.qmd**](EJERCICIO_1_JARA_RAMON.qmd) → Código fuente en Quarto con el análisis en R.  
+- 📄 [**EJERCICIO 1_JARA_RAMON.qmd**](EJERCICIO 1_JARA_RAMON.qmd) → Código fuente en Quarto con el análisis en R.  
 - 📜 [**EJERCICIO-1_JARA_RAMON.pdf**](EJERCICIO-1_JARA_RAMON.pdf) → Documento renderizado con los análisis y resultados en formato PDF.  
 
 
